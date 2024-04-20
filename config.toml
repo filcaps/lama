@@ -1,0 +1,23 @@
+[binance]
+b_api_key = "YOUR_API_KEY_HERE"
+b__key = "YOUR_SECRET_KEY_HERE"
+b_passphrase = "YOUR_PASSPHRASE_HERE"
+
+[hyperliquid]
+hl_api_key = "YOUR_API_KEY_HERE"
+hl_secret_key = "YOUR_SECRET_KEY_HERE"
+hl_passphrase = "YOUR_PASSPHRASE_HERE"
+
+
+[behaviour]
+# Performance monitor interval in seconds
+monitor_interval_sec = 120
+# max amount of USD to use in a single cyclic arbitrage
+usd_cyclic_arbitrage = 20
+
+
+[log]
+file_directory = "./log"
+file_prefix = "log"
+file_log_level = "warn"
+term_log_level = "info"

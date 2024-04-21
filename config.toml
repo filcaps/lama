@@ -1,11 +1,11 @@
 [binance]
-b_api_key = "PLN2rokctyc4NnRNQLMp04jlRqpkW4WMLlrgeFGIpvGgggKczFrVZn0yGDk9Pcxj"
-b__key = "wGN2aYzBMPZnQK0cRm397QlWXoMB51g34c1A7Qg9UkA5daCE3MUnJ3PraiKE86Sw"
+b_api_key = "AA"
+b__key = "AA
 b_passphrase = "YOUR_PASSPHRASE_HERE"
 
 [hyperliquid]
 hl_api_key = "YOUR_API_KEY_HERE"
-hl_secret_key = "0xb94a852aff85ce17c84d19f7c09bf9e730d412e811cee5fce9fbb67e1e8aa5e1"
+hl_secret_key = "AA"
 hl_passphrase = "YOUR_PASSPHRASE_HERE"
 
 
